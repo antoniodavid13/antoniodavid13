@@ -1,4 +1,4 @@
-# ¡Hola! Soy Antonio David 👋 
+# ¡Hola! Soy Antonio David 
 
 <p align="center">
   <img src="Banner" alt="Backend Developer Banner" width="100%">
