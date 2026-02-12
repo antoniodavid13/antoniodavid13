@@ -1,6 +1,6 @@
 # ¡Hola! Soy Antonio David 👋 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=Ff8c00&height=200&section=header&text=Backend%20Developer&fontSize=70&fontAlignY=35&theme=sunshine)
+![header](Banner para Linkedin programador con fotografia azul y blanco.png)
 
 ### 🚀 Sobre mí
 - 🎮 Actualmente desarrollando un **juego de "¿Quién quiere ser millonario?"** en Java.
