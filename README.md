@@ -5,7 +5,7 @@
 </p>
 
 ### 🚀 Sobre mí
-Soy un **Desarrollador de Aplicaciones Multiplataforma** con una sólida base técnica y una gran pasión por la automatización mediante herramientas como **n8n**. Me defino, ante todo, como una persona **trabajadora, social y con una gran capacidad para el trabajo en equipo**, convencido de que los mejores resultados nacen de la colaboración y el intercambio de ideas. Mi enfoque profesional se centra en la creación de **interfaces dinámicas y accesibles (A11y)**, garantizando que cada solución no solo sea funcional, sino también inclusiva. Poseo un control integral de diversas **arquitecturas de software**, desde sistemas **monolíticos y estructuras desacopladas hasta microservicios**, lo que me permite adaptarme con agilidad a las necesidades de cada proyecto y entorno tecnológico.
+Soy un **Desarrollador de Aplicaciones Multiplataforma** con un enfoque especializado en el **desarrollo Backend**. Mi pasión reside en construir la lógica robusta y escalable que da vida a las aplicaciones, con un fuerte dominio en la creación de APIs y la integración de servicios. Me defino como una persona **trabajadora, social y con una gran capacidad para el trabajo en equipo**, convencido de que la mejor arquitectura nace de la colaboración técnica y humana. Cuento con experiencia práctica en automatización mediante **n8n** y me especializo en el diseño de **interfaces dinámicas y accesibles (A11y)** conectadas a sistemas eficientes. Mi perfil destaca por el control de diversas **arquitecturas de software**, desde sistemas **monolíticos y estructuras desacopladas hasta microservicios**, priorizando siempre la integridad de los datos y el rendimiento del servidor.
 
 ## 🛠️ Mi Stack Tecnológico
 
