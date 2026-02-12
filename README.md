@@ -1,6 +1,6 @@
 # ¡Hola! Soy Antonio David 👋 
 
-![header](Banner para Linkedin programador con fotografia azul y blanco.png)
+![header](banner.png)
 
 ### 🚀 Sobre mí
 - 🎮 Actualmente desarrollando un **juego de "¿Quién quiere ser millonario?"** en Java.
