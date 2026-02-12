@@ -1,7 +1,7 @@
 # ¡Hola! Soy Antonio David 👋 
 
 <p align="center">
-  <img src="Banner para Linkedin programador con fotografia azul y blanco (1)" alt="Backend Developer Banner" width="100%">
+  <img src="Banner" alt="Backend Developer Banner" width="100%">
 </p>
 
 ### 🚀 Sobre mí
