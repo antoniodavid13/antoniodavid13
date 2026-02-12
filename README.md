@@ -1,7 +1,7 @@
 # ¡Hola! Soy Antonio David 👋 
 
 <p align="center">
-  <img src="banner.png" alt="Backend Developer Banner" width="100%">
+  <img src="banner" alt="Backend Developer Banner" width="100%">
 </p>
 
 ### 🚀 Sobre mí
