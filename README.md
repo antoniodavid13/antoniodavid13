@@ -5,9 +5,7 @@
 </p>
 
 ### 🚀 Sobre mí
-- 🎮 Actualmente desarrollando un **juego de "¿Quién quiere ser millonario?"** en Java.
-- ♿ Enfocado en crear interfaces **dinámicas y accesibles (A11y)**.
-- 🛠️ Amante del código limpio y la arquitectura sólida.
+Soy un **Desarrollador de Aplicaciones Multiplataforma** con una sólida base técnica y una gran pasión por la automatización mediante herramientas como **n8n**. Me defino, ante todo, como una persona **trabajadora, social y con una gran capacidad para el trabajo en equipo**, convencido de que los mejores resultados nacen de la colaboración y el intercambio de ideas. Mi enfoque profesional se centra en la creación de **interfaces dinámicas y accesibles (A11y)**, garantizando que cada solución no solo sea funcional, sino también inclusiva. Poseo un control integral de diversas **arquitecturas de software**, desde sistemas **monolíticos y estructuras desacopladas hasta microservicios**, lo que me permite adaptarme con agilidad a las necesidades de cada proyecto y entorno tecnológico.
 
 ## 🛠️ Mi Stack Tecnológico
 
@@ -38,10 +36,7 @@
 ---
 
 ## 📊 Estadísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=antoniodavid13&show_icons=true&theme=remedy" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniodavid13&layout=compact&theme=remedy" height="180" />
-</p>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=antoniodavid13&theme=tokyonight)
 
 ---
 📫 **¡Conectemos!**
