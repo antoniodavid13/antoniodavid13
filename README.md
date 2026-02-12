@@ -1,6 +1,8 @@
 # ¡Hola! Soy Antonio David 👋 
 
-![header](banner.png)
+<p align="center">
+  <img src="banner.png" alt="Backend Developer Banner" width="100%">
+</p>
 
 ### 🚀 Sobre mí
 - 🎮 Actualmente desarrollando un **juego de "¿Quién quiere ser millonario?"** en Java.
