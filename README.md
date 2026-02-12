@@ -14,11 +14,10 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### 📊 Mis Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antoniodavid13&show_icons=true&theme=tokyonight" alt="Stats de antoniodavid13" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniodavid13&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
-</p>
+
+![Stats de antoniodavid13](https://github-readme-stats.vercel.app/api?username=antoniodavid13&show_icons=true&theme=tokyonight)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniodavid13&layout=compact&theme=tokyonight)
 
 ---
 📫 **¡Conectemos!**
