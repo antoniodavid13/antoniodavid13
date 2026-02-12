@@ -15,8 +15,9 @@
 
 ### 📊 Mis Estadísticas de GitHub
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=antoniodavid13&show_icons=true&theme=tokyonight" alt="Stats de GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniodavid13&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=antoniodavid13&show_icons=true&theme=tokyonight" alt="Stats de antoniodavid13" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniodavid13&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
 ---
