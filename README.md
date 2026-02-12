@@ -1,4 +1,4 @@
-# ¡Hola! Soy [TU NOMBRE] 👋 
+# ¡Hola! Soy Antonio David 👋 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=007396&height=200&section=header&text=Java%20Developer&fontSize=70&fontAlignY=35)
 
@@ -15,10 +15,10 @@
 
 ### 📊 Mis Estadísticas de GitHub
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight" alt="Stats de GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+<img src="https://github-readme-stats.vercel.app/api?username=antoniodavid13&show_icons=true&theme=tokyonight" alt="Stats de GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniodavid13&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
 ---
 📫 **¡Conectemos!**
-[Tu LinkedIn](https://linkedin.com/in/tu-usuario) | [Tu Portfolio](https://tu-web.com)
+[Tu LinkedIn](https://www.linkedin.com/in/antonio-david-fern%C3%A1ndez-de-gomar-9a8212331/) | [Tu Portfolio](https://antoniodavid.vercel.app/)
